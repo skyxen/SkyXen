@@ -1,7 +1,7 @@
 Hi 👋 I'm Akash
 ======================
 
-Artificial Intelligence and Deep Learning Engineer
+Software Developer
 ----------------------
 
 * 🧠 Passionate about developing innovative solutions to complex problems using machine learning and deep learning techniques.
