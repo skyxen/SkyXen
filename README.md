@@ -1,10 +1,9 @@
 Hi 👋 I'm Akash
 ======================
-
-Software Developer
+WIZARD
 ----------------------
 
-* Focused on generative AI projects. Passionate about building intelligent systems and constantly exploring new advancements in robotics, machine learning, and AI.
+* Passionate about building intelligent systems and constantly exploring new advancements in robotics, machine learning, and AI.
 * ✉️  You can mail me at [Akash](mailto:akashkumarmishra795@gmail.com)
 
 <a href="https://www.github.com/SkyXen" target="_blank" rel="noreferrer"><img
