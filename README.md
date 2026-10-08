@@ -1,6 +1,6 @@
-Hi 👋 I'm Akash
+Hi 👋
 ======================
-WIZARD
+I'm an Engineer
 ----------------------
 
 * Passionate about building intelligent systems and constantly exploring new advancements in robotics, machine learning, and AI.
