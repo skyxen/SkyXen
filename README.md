@@ -4,7 +4,6 @@ I'm an Engineer
 ----------------------
 
 * Passionate about building intelligent systems and constantly exploring new advancements in robotics, machine learning, and AI.
-* ✉️  You can mail me at [Akash](mailto:akashkumarmishra795@gmail.com)
 
 <a href="https://www.github.com/SkyXen" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SkyXen?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
